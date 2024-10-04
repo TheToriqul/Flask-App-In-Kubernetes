@@ -84,10 +84,10 @@ Flask-App-In-Kubernetes/
 ├── app.py              # Flask application
 ├── Dockerfile          # Container configuration
 ├── deployment.yaml     # Kubernetes deployment
-├── Makefile           # Automation scripts
+├── Makefile            # Automation scripts
 ├── requirements.txt    # Python dependencies
-├── architecture.md     # Architecture diagram
-└── README.md          # Documentation
+├── diagram.png         # Architecture diagram
+└── README.md           # Documentation
 ```
 
 ## ⚙️ Configuration
