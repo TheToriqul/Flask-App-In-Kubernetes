@@ -65,6 +65,12 @@ See diagram for the detailed system architecture diagram.
    ```bash
    make all
    ```
+   <figure >
+    <p align="center">
+        <img src="./output.png" alt="output" />
+        <p align="center">Ypu will see this output</p> 
+    </p>
+   </figure>
 
 2. Access the application:
 
