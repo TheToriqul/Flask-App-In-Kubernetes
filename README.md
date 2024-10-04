@@ -3,8 +3,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Flask_App_In_Kubernetes-blue?style=flat&logo=github)](https://github.com/TheToriqul/Flask-App-In-Kubernetes)
 [![GitHub stars](https://img.shields.io/github/stars/TheToriqul/Flask-App-In-Kubernetes?style=social)](https://github.com/TheToriqul/Flask-App-In-Kubernetes/stargazers)
 ![Python](https://img.shields.io/badge/Python-3.9-brightgreen)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Powered-blue)
-![Docker](https://img.shields.io/badge/Docker-Enabled-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue)
+![Docker](https://img.shields.io/badge/Docker-blue)
 
 ## 🔍 Overview
 
